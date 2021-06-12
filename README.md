@@ -2,7 +2,7 @@
 
 *By Milecia McGregor*
 
-This is a careful reading of the article [4 Design Patterns You Should Know for Web Development: Observer, Singleton, Strategy, and Decorator](https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/) by Milecia McGregor.
+A careful reading of the article [4 Design Patterns You Should Know for Web Development: Observer, Singleton, Strategy, and Decorator](https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/) by Milecia McGregor.
 
 > There are 23 official patterns from the book Design Patterns - Elements of Reusable Object-Oriented Software, which is considered one of the most influential books on object-oriented theory and software development.
 > 
